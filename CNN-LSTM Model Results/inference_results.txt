@@ -1,0 +1,7 @@
+Real-time Performance Metrics:
+avg_inference_time_ms: 127.32
+std_inference_time_ms: 71.01
+max_inference_time_ms: 453.35
+p95_inference_time_ms: 270.46
+avg_memory_usage_mb: 1196.77
+peak_memory_usage_mb: 1200.06
