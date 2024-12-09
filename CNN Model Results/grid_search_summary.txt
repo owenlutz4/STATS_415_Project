@@ -1,0 +1,9 @@
+Grid Search Results Summary
+
+Best Score: 0.9796
+
+Best Parameters:
+batch_size: 64
+dropout_rate: 0.35
+filters: 64
+learning_rate: 0.0005
